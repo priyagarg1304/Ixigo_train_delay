@@ -6,16 +6,16 @@ This file is used for the final prediction and saving of the model.
 
 ## treiedMLtechniques.ipynb
 
-This files ocntains the codes of all the ML techniques that have been tried.
+This files contains the codes of all the ML techniques that have been tried.
 
-## reportOfTheStudy
+## reportOfTheStudy.docx
 
-This is the detailed document on the tehcniques, the data analysis, the plots and the final results for validation o all the techniques.
+This is the detailed document on the techniques, the data analysis, the plots and the final results for validation of all the techniques.
 
-## PriyGarg_solution
+## PriyaGarg_solution.csv
 
-This the final solution file for the tetsing data provided
+This the final solution file for the testing data provided.
 
-## ProblemStatement
+## ProblemStatement.pdf
 
-ProblemStatement of the Case Study
+Problem Statement of the Case Study.
