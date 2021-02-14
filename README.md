@@ -2,7 +2,7 @@
 
 ## Final_Prediction_model.ipynb
 
-This files is used for the final prediction and saving of the model.
+This file is used for the final prediction and saving of the model.
 
 ## treiedMLtechniques.ipynb
 
